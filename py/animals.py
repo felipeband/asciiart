@@ -1,4 +1,5 @@
 # 30.4.21 @ Felipe Bandeira da Silva
+# https://www.asciiart.eu/animals
 
 cat = '''
  _._     _,-'""`-._
